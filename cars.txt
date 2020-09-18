@@ -1,3 +1,6 @@
 Tayota
 Mazda
 Honda
+BMW
+Jaguar
+Bentley
