@@ -5,3 +5,5 @@ white
 black
 dark-blue
 resolving conflict "orrange"
+creating conflict "orange color"
+
