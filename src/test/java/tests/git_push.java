@@ -1,0 +1,7 @@
+package tests;
+
+public class git_push {
+    public static void main(String[] args) {
+        System.out.println("lets chech how push to deleted branch works");
+    }
+}
